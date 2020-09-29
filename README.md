@@ -10,15 +10,15 @@ Flutter App - Find Local Indian Brands Companies and Products. Make आत्म
 
 ## Show Case
 
-<p float="center">
+<p float="left">
 <img src="https://github.com/potterTheCoder/flutter_app_vocalforlocalindia/blob/master/images/ic_vocalforlocal_india_01.JPEG" width="800">
 </p>
-<p float="center">
+<p float="left">
 	<img src="https://github.com/potterTheCoder/flutter_app_vocalforlocalindia/blob/master/images/ic_vocalforlocal_india_02.JPEG" width="267">
 	<img src="https://github.com/potterTheCoder/flutter_app_vocalforlocalindia/blob/master/images/ic_vocalforlocal_india_03.JPEG" width="266">
 	<img src="https://github.com/potterTheCoder/flutter_app_vocalforlocalindia/blob/master/images/ic_vocalforlocal_india_04.JPEG" width="267">
 </p>
-<p float="center">
+<p float="left">
 	<img src="https://github.com/potterTheCoder/flutter_app_vocalforlocalindia/blob/master/images/ic_vocalforlocal_india_05.JPEG" width="200">
 	<img src="https://github.com/potterTheCoder/flutter_app_vocalforlocalindia/blob/master/images/ic_vocalforlocal_india_06.JPEG" width="200">
 	<img src="https://github.com/potterTheCoder/flutter_app_vocalforlocalindia/blob/master/images/ic_vocalforlocal_india_07.JPEG" width="200">
