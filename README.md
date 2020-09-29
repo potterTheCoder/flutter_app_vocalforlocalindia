@@ -15,7 +15,11 @@ Flutter App - Find Local Indian Brands Companies and Products. Make आत्म
 <img src="https://github.com/potterTheCoder/flutter_app_vocalforlocalindia/blob/master/images/ic_vocalforlocal_india_03.JPEG" width="250">
 <img src="https://github.com/potterTheCoder/flutter_app_vocalforlocalindia/blob/master/images/ic_vocalforlocal_india_04.JPEG" width="250">
 <img src="https://github.com/potterTheCoder/flutter_app_vocalforlocalindia/blob/master/images/ic_vocalforlocal_india_05.JPEG" width="250">
-<img src="https://github.com/potterTheCoder/flutter_app_vocalforlocalindia/blob/master/images/ic_vocalforlocal_india_06.JPEG" width="250"><img src="https://github.com/potterTheCoder/flutter_app_vocalforlocalindia/blob/master/images/ic_vocalforlocal_india_07.JPEG" width="250"><img src="https://github.com/potterTheCoder/flutter_app_vocalforlocalindia/blob/master/images/ic_vocalforlocal_india_08.JPEG" width="250">
+<p float="left">
+	<img src="https://github.com/potterTheCoder/flutter_app_vocalforlocalindia/blob/master/images/ic_vocalforlocal_india_06.JPEG" width="250">
+	<img src="https://github.com/potterTheCoder/flutter_app_vocalforlocalindia/blob/master/images/ic_vocalforlocal_india_07.JPEG" width="250">
+	<img src="https://github.com/potterTheCoder/flutter_app_vocalforlocalindia/blob/master/images/ic_vocalforlocal_india_08.JPEG" width="250">
+</p>
 
 ## Thanks for your Support.
 
