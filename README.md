@@ -9,10 +9,11 @@ Vocal For Local - India
 Flutter App - Find Local Indian Brands Companies and Products. Make आत्मनिर्भर भारत.
 
 ## Live On Stores
+> **Android PlayStore Link:**
+&emsp; [Vocal For Local - India](https://bit.ly/vocalforlocal-india-android)
 
-&emsp; Android PlayStore Link: [Vocal For Local - India](https://bit.ly/vocalforlocal-india-android)
-
-&emsp; iOS AppStore Link: Coming Soon...
+> **iOS AppStore Link:**
+&emsp; Coming Soon...
 
 ## Show Case
 
